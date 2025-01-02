@@ -1,7 +1,7 @@
 # zig-pcapfile
 A pure Zig library for reading and writing PCAP files
 
-_Releases target Zig releases (e.g. 0.10.x).  Master follows the Zig master branch_
+_The main branch targets Zig 0.13.0_
 
 ## Status
 Full support for reading and writing PCAP version 2.4 files (.pcap extension)  
